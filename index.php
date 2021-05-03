@@ -12,7 +12,7 @@
 <body>
 <center>
     <form action="soma.php" method="post">
-        <label for="dados">COLOQUE AQUI A LISTA DE VALORES NUMÉRICOS:</label><br>
+        <label for="dados">COLOQUE AQUI A LISTA DE VALORES NUMÉRICOS A SEREM SOMADOS:</label><br>
         <textarea name="dados" id="dados" rows="6"></textarea><br>
         <input type="submit" value="Enviar">
     </form>
