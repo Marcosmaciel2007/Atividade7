@@ -10,12 +10,12 @@
 </head>
 
 <body>
-
+<center>
     <form action="soma.php" method="post">
         <label for="dados">COLOQUE AQUI A LISTA DE VALORES NUMÉRICOS:</label><br>
         <textarea name="dados" id="dados" rows="6"></textarea><br>
         <input type="submit" value="Enviar">
     </form>
-
+</center>
 </body>
 </html>
